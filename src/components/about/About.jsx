@@ -3,6 +3,7 @@ import './about.css'
 import ME from '../../assets/me.png'
 import {GiSoccerBall} from 'react-icons/gi'
 import {FaGraduationCap} from 'react-icons/fa'
+import {GiCat} from 'react-icons/gi'
 
 const About = () => {
   return (
@@ -25,7 +26,9 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              
+              <GiCat className='about__icon-cat'/>
+              <h5>Cats</h5>
+              <small>Are our Gods</small>
             </article>
 
             <article className='about__card'>
@@ -33,14 +36,16 @@ const About = () => {
               <h5>Hobbies</h5>
               <small>Gundams and football</small>
             </article>
-
-            <p>
+          </div>
+          
+          <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
             Ea tempore dicta quas voluptas hic culpa praesentium reiciendis numquam, 
             ipsam corporis nihil odit saepe et neque dolore fugiat! Quaerat, voluptas! Voluptatibus.
             </p>
-          </div>
-          <a href='#contact' className='btn btn-primary'>Contact Me!</a>
+
+          <a href='#contact' className='btn btn-primary'>Let's have a Chat!</a>
+
         </div>
       </div>
     </section>
