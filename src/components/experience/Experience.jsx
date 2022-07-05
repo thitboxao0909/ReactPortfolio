@@ -13,39 +13,54 @@ const Experience = () => {
           <h3>Core</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>Java</h3>
-              <small className='text-light'>Intermediate</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>Java</h2>
+                <small className='text-light'>Intermediate</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>ReactJS</h3>
-              <small className='text-light'>Entry-level</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>ReactJS</h2>
+                <small className='text-light'>Intermediate</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>HTML-CSS</h3>
-              <small className='text-light'>Entry-level</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>HTML - CSS</h2>
+                <small className='text-light'>Entry-level</small>
+              </div>
             </article>
           </div>
         </div>
+
+
+
         <div className="experience__backend">
-        <h3>Core</h3>
+        <h3>Learning</h3>
           <div className="experience__content">
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>Spring</h3>
-              <small className='text-light'>Entry-Level</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>Spring - Springboot</h2>
+                <small className='text-light'>Entry-level</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>Java</h3>
-              <small className='text-light'>Intermediate</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>Unreal 5</h2>
+                <small className='text-light'>Entry-level</small>
+              </div>
             </article>
             <article className='experience__details'>
-              <BsCheck2 />
-              <h3>HTML-CSS</h3>
-              <small className='text-light'>Intermediate</small>
+              <BsCheck2 className='experience__details-icon'/>
+              <div>
+                <h2>Python</h2>
+                <small className='text-light'>Entry-level</small>
+              </div>
             </article>
           </div>
         </div>
