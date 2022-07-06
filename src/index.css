@@ -118,7 +118,7 @@ a:hover {
 img {
     display: block;
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 /* Media queries */
