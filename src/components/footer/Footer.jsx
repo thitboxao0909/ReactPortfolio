@@ -20,6 +20,10 @@ const Footer = () => {
         <a href='https://www.instagram.com/thitboxao0909/'><BsInstagram /></a>
         <a href='https://steamcommunity.com/profiles/76561198174848273'><FaSteamSquare /></a>
       </div>
+
+      <div className='footer__copyright'>
+        <small> &copy; TbX 2022</small>
+      </div>
     </footer>
   )
 }
