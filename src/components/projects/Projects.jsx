@@ -29,7 +29,7 @@ const data = [
 const Projects = () => {
   return (
     <section id='projects'>
-      <h5>Recent Projects</h5>
+      <h2>Recent Projects</h2>
 
       <div className='container projects__container'>
         {
