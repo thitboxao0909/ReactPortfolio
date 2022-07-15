@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.png'
+import ME from '../../assets/cat.jpg'
 import {GiSoccerBall} from 'react-icons/gi'
 import {FaGraduationCap} from 'react-icons/fa'
 import {GiCat} from 'react-icons/gi'
@@ -39,10 +39,11 @@ const About = () => {
           </div>
           
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-            Ea tempore dicta quas voluptas hic culpa praesentium reiciendis numquam, 
-            ipsam corporis nihil odit saepe et neque dolore fugiat! Quaerat, voluptas! Voluptatibus.
-            </p>
+            Hello there! Welcome to this small corner of the Internet that is my page. Not much here yet as I just graduated and
+            trying to learn as much as I can. If anything peaked your interest, shoot me a message! I'd love to hear what you think, even 
+            play some games over Steam together. I do love cats though, so please send me some pics of your cat if you have one (or many)!
+            Anyway, have a lovely day. 
+          </p>
 
           <a href='#contact' className='btn btn-primary'>Let's have a Chat!</a>
 
