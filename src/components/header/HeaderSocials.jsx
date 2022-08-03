@@ -9,7 +9,7 @@ function HeaderSocials() {
     <div className='header__socials'>
         <a href="https://www.linkedin.com/in/ho%C3%A0ng-%C4%91%E1%BB%97-4b708011a/" target="_blank" rel='noreferrer'><BsLinkedin /></a>
         <a href="https://github.com/thitboxao0909" target="_blank" rel='noreferrer'><BsGithub /></a>
-        <a href='blog.namhoangdo.com' target="_blank" rel='noreferer'><GiNotebook /></a>       
+        <a href='https://blog.namhoangdo.com' target="_blank" rel='noreferer'><GiNotebook /></a>       
     </div>
   )
 }
