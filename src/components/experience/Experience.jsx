@@ -22,14 +22,14 @@ const Experience = () => {
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>ReactJS</h2>
+                <h2>Springboot</h2>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>HTML - CSS</h2>
+                <h2>React</h2>
                 <small className='text-light'>Entry-level</small>
               </div>
             </article>
@@ -44,14 +44,14 @@ const Experience = () => {
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>Spring - Springboot</h2>
+                <h2>Gitlab CICD</h2>
                 <small className='text-light'>Entry-level</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>Unreal 5</h2>
+                <h2>Unreal Engine 5</h2>
                 <small className='text-light'>Entry-level</small>
               </div>
             </article>
