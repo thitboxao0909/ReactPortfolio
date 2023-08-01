@@ -29,8 +29,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>React</h2>
-                <small className='text-light'>Entry-level</small>
+                <h2>MongoDB</h2>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
@@ -51,14 +51,14 @@ const Experience = () => {
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>Unreal Engine 5</h2>
+                <h2>Docker - Kubernates</h2>
                 <small className='text-light'>Entry-level</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsCheck2 className='experience__details-icon'/>
               <div>
-                <h2>Python</h2>
+                <h2>React Js</h2>
                 <small className='text-light'>Entry-level</small>
               </div>
             </article>
